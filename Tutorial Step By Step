@@ -1,0 +1,7 @@
+1. Download My Win rar File 
+2. open Win rar File up
+3. drag it to wherever your steam files are 
+Steam --> Steamapps --> common --> Team Fortress 2 --> tf --> custom
+3. then create file in "custom" called "tf2hitsounds" then create file in "tf2hitsounds" called "sound" no caps nothing then create file in "sound" called "ui" and drag Killsound in there
+4. Launch TF2 go to Advanced Settings and check mark "play last hit sound" make sure that "play last hit sound" has default on or else it wont work 
+5. This is mp3 file so download
